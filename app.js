@@ -43,7 +43,7 @@ fetch(Spotifydata)
 
     // Bar chart layout
     const barLayout = {
-      title: 'Top Songs Played in Last {timeFrameDef}',
+      title: 'Top Songs Played',
       yaxis: {
         title: 'Spotify Popularity'
       },
