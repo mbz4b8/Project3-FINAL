@@ -1,4 +1,4 @@
-Overview
+#Overview
 
 For this project, we wanted to remake Spotify Wrapped into an interactive dashboard that users can use to explore their Spotify data.
 The data that we used included the user's Top Artists, Top Played Songs, and Related Artists.
