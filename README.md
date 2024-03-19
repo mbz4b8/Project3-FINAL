@@ -1,3 +1,7 @@
+![Project_AI](https://github.com/mbz4b8/Project3-FINAL/assets/91983427/0a897bf7-da44-45c6-af5b-26fa4806de20)
+
+
+
 # Overview
 
 For this project, we wanted to remake Spotify Wrapped into an interactive dashboard that users can use to explore their Spotify data.
